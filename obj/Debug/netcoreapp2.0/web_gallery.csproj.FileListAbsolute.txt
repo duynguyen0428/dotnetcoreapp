@@ -1,0 +1,10 @@
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/bin/Debug/netcoreapp2.0/web_gallery.deps.json
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/bin/Debug/netcoreapp2.0/web_gallery.runtimeconfig.json
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/bin/Debug/netcoreapp2.0/web_gallery.runtimeconfig.dev.json
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/bin/Debug/netcoreapp2.0/web_gallery.dll
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/bin/Debug/netcoreapp2.0/web_gallery.pdb
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/obj/Debug/netcoreapp2.0/web_gallery.csproj.CoreCompileInputs.cache
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/obj/Debug/netcoreapp2.0/web_gallery.AssemblyInfoInputs.cache
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/obj/Debug/netcoreapp2.0/web_gallery.AssemblyInfo.cs
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/obj/Debug/netcoreapp2.0/web_gallery.dll
+/Users/duynguyen/Desktop/dotnet_projects/web_gallery/obj/Debug/netcoreapp2.0/web_gallery.pdb
